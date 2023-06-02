@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/rennermasasam/shanen-ian-chat/tree/master/static/js/main.6df892e0.js",
-    "static/media/notifikasi.mp3": "/rennermasasam/shanen-ian-chat/tree/master/static/media/notifikasi.158ec034178d8ea0920a.mp3",
-    "index.html": "/rennermasasam/shanen-ian-chat/tree/master/index.html",
-    "main.6df892e0.js.map": "/rennermasasam/shanen-ian-chat/tree/master/static/js/main.6df892e0.js.map"
+    "main.js": "/shanen-ian-chat/tree/master/static/js/main.9d948d1b.js",
+    "static/media/notifikasi.mp3": "/shanen-ian-chat/tree/master/static/media/notifikasi.158ec034178d8ea0920a.mp3",
+    "index.html": "/shanen-ian-chat/tree/master/index.html",
+    "main.9d948d1b.js.map": "/shanen-ian-chat/tree/master/static/js/main.9d948d1b.js.map"
   },
   "entrypoints": [
-    "static/js/main.6df892e0.js"
+    "static/js/main.9d948d1b.js"
   ]
 }
