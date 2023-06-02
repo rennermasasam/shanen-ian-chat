@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/shanen-ian-chat/tree/master/static/js/main.9d948d1b.js",
-    "static/media/notifikasi.mp3": "/shanen-ian-chat/tree/master/static/media/notifikasi.158ec034178d8ea0920a.mp3",
-    "index.html": "/shanen-ian-chat/tree/master/index.html",
-    "main.9d948d1b.js.map": "/shanen-ian-chat/tree/master/static/js/main.9d948d1b.js.map"
+    "main.js": "/shanen-ian-chat/static/js/main.1f6e737e.js",
+    "static/media/notifikasi.mp3": "/shanen-ian-chat/static/media/notifikasi.158ec034178d8ea0920a.mp3",
+    "index.html": "/shanen-ian-chat/index.html",
+    "main.1f6e737e.js.map": "/shanen-ian-chat/static/js/main.1f6e737e.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d948d1b.js"
+    "static/js/main.1f6e737e.js"
   ]
 }
