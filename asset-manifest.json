@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/shanen-ian-chat/static/js/main.1f6e737e.js",
+    "main.css": "/shanen-ian-chat/static/css/main.8df31220.css",
+    "main.js": "/shanen-ian-chat/static/js/main.504cbc6d.js",
     "static/media/notifikasi.mp3": "/shanen-ian-chat/static/media/notifikasi.158ec034178d8ea0920a.mp3",
     "index.html": "/shanen-ian-chat/index.html",
-    "main.1f6e737e.js.map": "/shanen-ian-chat/static/js/main.1f6e737e.js.map"
+    "main.8df31220.css.map": "/shanen-ian-chat/static/css/main.8df31220.css.map",
+    "main.504cbc6d.js.map": "/shanen-ian-chat/static/js/main.504cbc6d.js.map"
   },
   "entrypoints": [
-    "static/js/main.1f6e737e.js"
+    "static/css/main.8df31220.css",
+    "static/js/main.504cbc6d.js"
   ]
 }
